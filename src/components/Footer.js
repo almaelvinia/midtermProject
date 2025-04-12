@@ -7,7 +7,7 @@ function Footer({ className }) {
       <Container >
         <Row className="text-center text-md-left">
           <Col md={6}>
-            <h5>Agnes R. Tabanes</h5>
+            <h5>Alma Elvinia</h5>
             <p>&copy; {new Date().getFullYear()} All rights reserved.</p>
           </Col>
           <Col md={6} className="text-md-end">
